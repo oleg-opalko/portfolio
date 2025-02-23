@@ -1,4 +1,4 @@
-const baseURL = "example.com";
+const baseURL = "localhost";
 
 const routes = {
   "/": false,
